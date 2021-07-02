@@ -44,7 +44,7 @@ class _SignUpState extends State<SignUp> {
             alignment: Alignment.topCenter,
             children: <Widget>[
               Card(
-                elevation: 2.0,
+                elevation: 50.0,
                 color: Colors.white,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(8.0),
